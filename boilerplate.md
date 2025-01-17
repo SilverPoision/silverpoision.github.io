@@ -38,3 +38,4 @@ Starting from Chirpy v5.0.0, height and width support abbreviations (height → 
 
 https://chirpy.cotes.page/posts/write-a-new-post/
 https://github.com/cotes2020/jekyll-theme-chirpy/blob/master/_posts/2019-08-08-write-a-new-post.md?plain=1 -->
+<!-- bundle exec jekyll s -->
