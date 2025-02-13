@@ -2,6 +2,7 @@
 title: "Intigriti January Challenge 0125"
 date: 2024-01-12 11:47:00 +0530
 author: piyush
+image: /assets/img/posts/intichall/inti.png
 categories: [CTF, XSS]
 tags: [ctf, xss, initigriti]
 ---
