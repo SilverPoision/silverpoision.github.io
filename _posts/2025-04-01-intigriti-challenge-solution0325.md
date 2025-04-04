@@ -7,13 +7,13 @@ categories: [CTF, XSS]
 tags: [ctf, xss, initigriti]
 ---
 
-Wow! What a ride this [challenge](https://challenge-0325.intigriti.io/) turned out to be. Crafted by the talented [@0x999](https://x.com/_0x999) and hosted by [@Intigriti](https://x.com/intigriti), this was no ordinary challenge—it was a full-blown roller-coaster ride. Out of everyone who attempted it, only 16 managed to solve it within the time limit. Very few challenges see such a low number of solves. To put things in perspective, here’s a graph created by my friend [@Jorian](https://x.com/J0R1AN) that highlights just how challenging this was.
+Wow! What a ride this [challenge](https://challenge-0325.intigriti.io/) turned out to be. Crafted by the talented [@0x999](https://x.com/_0x999) and hosted by [@Intigriti](https://x.com/intigriti), this was no ordinary challenge—it was a full-blown roller-coaster ride. Out of everyone who attempted it, only 16 managed to solve it within the time limit. Very few challenges see such a low number of solves. To put things in perspective, here’s a [graph](https://jorianwoltjer.com/img/blog/intigriti_xss_0325_graph.png) created by my friend [@Jorian](https://x.com/J0R1AN) that highlights just how challenging this was.
 
 It took me nearly 34 hours to get the flag.
 {:refdef: style="text-align: center;"}
 ![img-description](/assets/img/posts/intichall/0325/report.png){: w="300" refdef}
 
-## Note
+## A quick Note
 At first glance, this blog might make it seem like I cruised through the challenge on a smooth road—but that's way far from the truth. In reality, it took me multiple days and a total of 34 hours of focused work to get to the finish line. I want to be completely transparent for those who are just starting out and might assume that solving something like this requires god-tier skills or that I breezed through it without struggle. That’s not the case at all my friend.
 
 There were countless moments where I hit roadblocks—some of which I haven’t even included here for the sake of brevity. The thought of giving up crossed my mind more than once. What made the difference wasn’t talent or shortcuts—it was consistency, persistence, and refusing to quit. That’s what really carried me through.
@@ -52,7 +52,7 @@ return NextResponse.next();
 
 ## Lets get started
 
-Upon opening the challenge page, I noticed the login endpoint and decided to test it with random credentials—which surprisingly worked. Additionally, the source code was provided, so I began analyzing it to gain a deeper understanding of how the application functioned. Below is the directory tree of the source code.
+Upon opening the challenge page, I noticed the login endpoint and decided to test it with random credentials—which surprisingly worked. Additionally, the [source](https://challenge-0325.intigriti.io/source.zip) code was provided, so I began analyzing it to gain a deeper understanding of how the application functioned. Below is the directory tree of the source code.
 
 ```
 ├── bot
