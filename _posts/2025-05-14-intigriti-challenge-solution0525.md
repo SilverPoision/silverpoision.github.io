@@ -169,7 +169,7 @@ Uncaught InternalError: too much recursion
 ```
 This happened because the `name` parameter was too long for the regex to process, causing the thread to stay busy. I realized this was the solution and quickly started implementing it. After several attempts, I managed to trigger the XSS by framing multiple ReDoS payloads along with one frame containing the actual XSS payload.
 
-## 🧨 The dirty code:
+## 🧨 The dirty Exploit:
 
 ```html
 <!DOCTYPE html>
