@@ -2,7 +2,7 @@
 title: "Intigriti March Challenge 0325"
 date: 2024-04-01 11:47:00 +0530
 author: piyush
-image: /assets/img/posts/intichall/0325/inti03.png
+image: /assets/img/posts/intichall/0325/0325.png
 categories: [CTF, XSS]
 tags: [ctf, xss, initigriti]
 ---

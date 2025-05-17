@@ -2,12 +2,12 @@
 title: "Intigriti January Challenge 0125"
 date: 2024-01-12 11:47:00 +0530
 author: piyush
-image: /assets/img/posts/intichall/inti.png
+image: /assets/img/posts/intichall/0125/0125.png
 categories: [CTF, XSS]
 tags: [ctf, xss, initigriti]
 ---
 
-This was truly an incredible [challenge](https://challenge-0125.intigriti.io/challenge) organized by [@0xGodson_](https://x.com/0xGodson_) and hosted by [@Intigriti](https://x.com/intigriti). A big shoutout to them for putting together such interesting XSS challenges for us every month. 
+This was truly an incredible [challenge](https://challenge-0125.intigriti.io/challenge) organized by [@0xGodson_](https://x.com/0xGodson_) and hosted by [@Intigriti](https://x.com/intigriti). A big shout out to them for putting together such interesting XSS challenges for us every month. 
 
 It took me nearly 5 hours to crack the challenge.
 {:refdef: style="text-align: center;"}
