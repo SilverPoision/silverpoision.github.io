@@ -11,7 +11,7 @@ This was truly an incredible [challenge](https://challenge-0125.intigriti.io/cha
 
 It took me nearly 5 hours to crack the challenge.
 {:refdef: style="text-align: center;"}
-![img-description](/assets/img/posts/intichall/report2.png){: w="300" refdef}
+![img-description](/assets/img/posts/intichall/0125/report2.png){: w="300" refdef}
 ## Here’s the code related to the challenge.
 ```js
 function XSS() {
