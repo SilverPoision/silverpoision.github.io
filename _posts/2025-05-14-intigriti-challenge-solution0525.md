@@ -1,6 +1,6 @@
 ---
 title: "Intigriti January Challenge 0525"
-date: 2024-05-14 05:05:00 +0530
+date: 2025-05-14 05:05:00 +0530
 author: piyush
 image: /assets/img/posts/intichall/0525/0525.png
 categories: [CTF, XSS]
